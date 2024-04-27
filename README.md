@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋 I'm Akhil
+
+- 🔭 I’m currently working at [Intellicar Telematics]([https://knowbe4.com](https://intellicar.in/)) as a Frontend Developer
+- 💬 Ask me about **Javascript and React**
 
 <!--
 **Akhil017/Akhil017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
