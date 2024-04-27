@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Akhil
 
-- 🔭 I’m currently working at [Intellicar Telematics]([https://knowbe4.com](https://intellicar.in/)) as a Frontend Developer
+- 🔭 I’m currently working at [Intellicar Telematics](https://intellicar.in)! as a Frontend Developer
 - 💬 Ask me about **Javascript and React**
 
 <!--
